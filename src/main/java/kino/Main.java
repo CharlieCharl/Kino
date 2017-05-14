@@ -10,7 +10,7 @@ import javax.persistence.Persistence;
 import java.net.URI;
 
 public class Main {
-    public static final String BASE_URI = "http://0.0.0.0:8080/kino/";
+    public static final String BASE_URI = "http://0.0.0.0:8082/kino/";
     private static EntityManagerFactory entityManagerFactory = Persistence.createEntityManagerFactory("KinoPersistence");
     public static EntityManagerFactory getEntityManagerFactory(){
         return entityManagerFactory;

@@ -37,6 +37,6 @@ public class MoviesResource {
             entityManager.close();
         }
 
-        return Response.accepted(movie).build();
+        return Response.ok(movie).build();
     }
 }
