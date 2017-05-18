@@ -24,6 +24,9 @@ public class Movie {
     @Column(name = "description", columnDefinition = "LONGTEXT")
     private String description;
 
+    @Column(name = "path")
+    private String path;
+
     @Enumerated
     @Column(name = "genere")
     private Genere genere;
@@ -31,6 +34,14 @@ public class Movie {
     public Movie() {
     }
 
+
+    public String getPath() {
+        return path;
+    }
+
+    public void setPath(String path) {
+        this.path = path;
+    }
     public String getTitle() {
         return title;
     }

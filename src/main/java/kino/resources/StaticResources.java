@@ -14,7 +14,6 @@ public class StaticResources {
 
     public  static void populatedb(){
         addMovies();
-
         addToDatabase();
     }
 
@@ -27,6 +26,7 @@ public class StaticResources {
         movie.setLanguage("Angielski");
         movie.setReleased("12/05/2017");
         movie.setLenght(122);
+        movie.setPath("C:\\Users\\Karol\\Desktop\\obcy.png");
 
         objects.add(movie);
 
@@ -38,6 +38,7 @@ public class StaticResources {
         movie.setLanguage("Angielski");
         movie.setReleased("26/05/2017");
         movie.setLenght(129);
+        movie.setPath("C:\\Users\\Karol\\Desktop\\obcy.png");
 
         objects.add(movie);
 
