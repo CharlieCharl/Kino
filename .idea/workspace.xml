@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="698a341c-3dc2-401e-89d0-676c5eaa17a0" name="Default" comment="fix">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database.mv.db" afterPath="$PROJECT_DIR$/database.mv.db" />
+    <list default="true" id="698a341c-3dc2-401e-89d0-676c5eaa17a0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/kino/model/Movie.class" afterPath="$PROJECT_DIR$/target/classes/kino/model/Movie.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/kino/resources/MoviesResource.class" afterPath="$PROJECT_DIR$/target/classes/kino/resources/MoviesResource.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/kino/resources/StaticResources.class" afterPath="$PROJECT_DIR$/target/classes/kino/resources/StaticResources.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Kino.iml" afterPath="$PROJECT_DIR$/Kino.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/kino/resources/MoviesResource.java" afterPath="$PROJECT_DIR$/src/main/java/kino/resources/MoviesResource.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/kino/resources/StaticResources.java" afterPath="$PROJECT_DIR$/src/main/java/kino/resources/StaticResources.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -803,7 +799,7 @@
       <workItem from="1495055808930" duration="485000" />
       <workItem from="1495100819092" duration="7445000" />
       <workItem from="1495281086769" duration="11455000" />
-      <workItem from="1495465911162" duration="777000" />
+      <workItem from="1495465911162" duration="815000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <created>1494776398544</created>
@@ -812,11 +808,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494776398544</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix">
+      <created>1495466696355</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1495466696355</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43905000" />
+    <option name="totallyTimeSpent" value="43943000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
