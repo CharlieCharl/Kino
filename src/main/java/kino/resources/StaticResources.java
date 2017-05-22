@@ -26,19 +26,31 @@ public class StaticResources {
         movie.setLanguage("Angielski");
         movie.setReleased("12/05/2017");
         movie.setLenght(122);
-        movie.setPath("C:\\Users\\Karol\\Desktop\\obcy.png");
+        movie.setPath("C:\\Users\\sebas\\Desktop\\images\\obcy.png");
 
         objects.add(movie);
 
         movie = new Movie();
-        movie.setTitle("Piraci z Karaibów. Zemsta Salazara");
+        movie.setTitle("Piraci_z_Karaibow._Zemsta_Salazara");
         movie.setDescription("Szczęście nie sprzyja kapitanowi Jackowi Sparrowowi (Johnny Depp), a złe wiatry pchają go coraz silniej ku kolejnej awanturze. Duchy korsarzy pod wodzą jego dawnego wroga, przerażającego kapitana Salazara (Javier Bardem), wydostają się z Devil’s Triangle z zamiarem unicestwienia każdego pirata, jakiego noszą oceany. Jedyną nadzieją by uniknąć śmierci, jest dla Jacka odnalezienie legendarnego trójzębu Posejdona, który daje swojemu posiadaczowi całkowitą kontrolę nad morzami i oceanami.");
         movie.setDirector("Joachim Roenning, Espen Sandberg");
         movie.setGenere(Genere.fantasy);
         movie.setLanguage("Angielski");
         movie.setReleased("26/05/2017");
         movie.setLenght(129);
-        movie.setPath("C:\\Users\\Karol\\Desktop\\obcy.png");
+        movie.setPath("C:\\Users\\sebas\\Desktop\\images\\piraci.png");
+
+        objects.add(movie);
+
+        movie = new Movie();
+        movie.setTitle("Kong:_Wyspa_Czaszki");
+        movie.setDescription("Kong: Wyspa Czaszki produkcji Warner Bros. Pictures i Legendary Pictures to wciągający oryginalny film przygodowy w reżyserii Jordana Vogta-Robertsa (Królowie lata), opowiadający o początkach legendy o mitycznym King Kongu. Film śledzi losy zespołu badaczy, którzy zapuszczają się w głąb niezbadanej wyspy położonej na Pacyfiku — tak samo pięknej, jak i zdradliwej — nie wiedząc, że wchodzą na teren należący do mitycznego King Konga.");
+        movie.setDirector("Jordan Vogt-Roberts");
+        movie.setGenere(Genere.fantasy);
+        movie.setLanguage("Angielski");
+        movie.setReleased("10/03/2017");
+        movie.setLenght(118);
+        movie.setPath("C:\\Users\\sebas\\Desktop\\images\\kong.png");
 
         objects.add(movie);
 
